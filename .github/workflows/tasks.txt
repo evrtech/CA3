@@ -1,3 +1,0 @@
-20i0586 -> added flask app,calculator functionality and initial workflow
-20i075 -> added calculator functionality and dockerfile
-2oi2607 -> added calculator functionality,requirments.txt and corrected the workflow
